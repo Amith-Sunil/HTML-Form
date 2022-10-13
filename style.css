@@ -1,0 +1,27 @@
+body{
+	background-color: #DFC8CC;
+
+
+}
+
+
+.heading{
+	background-color: #A85562;
+	margin-top: 20px;
+	font-family: anton;
+	border-style: outset;
+	border-radius: 30px;
+	text-align: center ;
+	border-color: #912536;
+}
+
+.form{
+	border-style: solid;
+
+	border-radius: 15px;
+	font-size: 20;
+	margin-top: 50px;
+	text-align: center;
+	line-height: 2;
+	font-family: 'IBM Plex Mono', monospace;
+}
